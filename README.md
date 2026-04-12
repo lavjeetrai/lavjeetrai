@@ -6,3 +6,7 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yevyzmbnm2qogdrq3hqh3agrri" alt="THAT'S WHY I LISTEN MUSIC ALL DAY !!" />
   </a>
 </p>
+
+
+[![Actions Status](https://github.com/lavjeetrai/lavjeetrai/workflows/wakatime-stats/badge.svg)](https://github.com/lavjeetrai/lavjeetrai/actions)
+[![Actions Status](https://github.com/lavjeetrai/lavjeetrai/workflows/update-gh-activity/badge.svg)](https://github.com/lavjeetrai/lavjeetrai/actions)
