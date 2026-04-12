@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lavjeetrai&theme=onedark&column=-1" />
+</p>
+
+<p align="center">
   <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" />
   <br><br>
   
@@ -8,5 +12,4 @@
 </p>
 
 
-[![Actions Status](https://github.com/lavjeetrai/lavjeetrai/workflows/wakatime-stats/badge.svg)](https://github.com/lavjeetrai/lavjeetrai/actions)
-[![Actions Status](https://github.com/lavjeetrai/lavjeetrai/workflows/update-gh-activity/badge.svg)](https://github.com/lavjeetrai/lavjeetrai/actions)
+
