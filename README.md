@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lavjeetrai&theme=onedark&column=-1" />
-</p>
 
 <p align="center">
   <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" />
