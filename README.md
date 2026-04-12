@@ -8,7 +8,7 @@
   </a>
     
   <a href="https://www.instagram.com/lavjeet.rai/">
-    <img src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" width="40px" alt="Instagram" />
+    <img src="https://user-images.githubusercontent.com/43545812/144035237-75c61394-4348-43d9-9529-f2ec1d604e0e.png" width="40px" alt="Instagram" />
   </a>
 
   <br><br>
@@ -16,4 +16,8 @@
   <a href="https://open.spotify.com/user/31yevyzmbnm2qogdrq3hqh3agrri">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yevyzmbnm2qogdrq3hqh3agrri" alt="Spotify Recently Played" />
   </a>
+
+  <br><br>
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </div>
