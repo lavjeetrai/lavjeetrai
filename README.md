@@ -20,5 +20,16 @@
   <br><br>
   <br>
 
+  <div align="center">
+  <h3>🌟 Experience the Live Project 🌟</h3>
+  <a href="https://securescanbylav.vercel.app">
+    <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+  </a>
+  <p><i>Ready to use instantly right in your browser!</i></p>
+</div>
+
+<br><br>
+  <br>
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer" width="100%" />
 </div>
