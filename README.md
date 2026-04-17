@@ -26,12 +26,12 @@
   <br><br>
 </div>
 
-<br>
+
   <a href="https://expo1student.vercel.app">
     <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-securescan.vercel.app-FF3366?style=for-the-badge&logo=vercel&logoColor=white" height="60" alt="Live Demo" />
   </a>
   <br><br>
-</div>
+
 
 <br><br>
   <br>
