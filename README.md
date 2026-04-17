@@ -19,13 +19,15 @@
 
   <br><br>
   <br>
-
-  <div align="center">
-  <h3>🌟 Experience the Live Project 🌟</h3>
+<div align="center">
   <a href="https://securescanbylav.vercel.app">
-    <img src="https://img.shields.io/badge/🔴_LIVE_DEMO-Click_Here-FF0000?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo" />
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=35&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=100&lines=🔥+SECURESCAN+IS+LIVE+🔥;👇+CLICK+BELOW+TO+LAUNCH+👇" alt="Typing SVG" />
   </a>
-  <p><i>Ready to use instantly right in your browser!</i></p>
+  <br>
+  <a href="https://securescanbylav.vercel.app">
+    <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-securescan.vercel.app-FF3366?style=for-the-badge&logo=vercel&logoColor=white" height="60" alt="Live Demo" />
+  </a>
+  <br><br>
 </div>
 
 <br><br>
