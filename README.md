@@ -18,11 +18,7 @@
   </a>
 
   <br><br>
-  <br>
-<div align="center">
-  <a href="https://securescanbylav.vercel.app">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=900&size=35&pause=1000&color=FF3366&center=true&vCenter=true&width=800&height=100&lines=🔥+SECURESCAN+IS+LIVE+🔥;👇+CLICK+BELOW+TO+LAUNCH+👇" alt="Typing SVG" />
-  </a>
+
   <br>
   <a href="https://securescanbylav.vercel.app">
     <img src="https://img.shields.io/badge/🚀_OPEN_LIVE_DEMO-securescan.vercel.app-FF3366?style=for-the-badge&logo=vercel&logoColor=white" height="60" alt="Live Demo" />
