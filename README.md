@@ -57,4 +57,4 @@ hobbies: ["Competitive Programming", "Nature Photography", "System Automation", 
 <br><br>
   <br>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&color=Orange&customColorList=12&section=footer" />
+<img width="120%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&customColorList=12&section=footer" />
