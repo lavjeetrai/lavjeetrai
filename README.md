@@ -39,7 +39,7 @@ key_projects_and_research:
 fields_of_interests: ["Artificial Intelligence", "LLM Fine-Tuning (PEFT, LoRA)", "Blockchain", "Decentralized Identity", "Zero-Knowledge Proofs"]
 technical_background: ["MERN Stack", "Next.js", "Django", "Java", "Python", "C/C++", "JavaScript", "Data Structures & Algorithms"]
 currently_learning: ["Agentic AI", "AI Studio"]
-hobbies: ["Competitive Programming", "Nature Photography", "System Automation", "Social Interaction"]
+hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Automation", "Social Interaction"]
 ````
 <br><br>
 <div align="center">
