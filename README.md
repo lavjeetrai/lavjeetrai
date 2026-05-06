@@ -1,6 +1,6 @@
 
  <div align="center">
-  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:1000px; height:auto;"/>
+  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:400px; height:auto;"/>
 </div>
 
 
