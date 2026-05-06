@@ -1,5 +1,8 @@
 
- <div align="center"> <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" width="400px" /> </div>
+ <div align="center">
+  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:1000px; height:auto;"/>
+</div>
+
 
   <div align="center"><h1>Laziness is the key...</h1></div>
 
