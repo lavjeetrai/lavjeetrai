@@ -57,13 +57,20 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
   </a>
 </p>
 
-  <img align="left" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:250px; height:auto;"/>
+  
   <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
   -----
 </div>
-<div align="centre"><img align="centre" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
+<div align="left">
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4dXZpcHRwa3E4ZTdtbmFlem9uNDQ1dDgyYWMxcmExdHR0ZXEwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMkVuVqHk2dB6/giphy.gif" 
+       width="110" 
+       height="110" 
+       style="border-radius: 50%; object-fit: cover;" 
+       align="middle"> 
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <em><b>"Always happy to talk tech or collaborate. Say hi!"</b> :)</em>
 </div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
