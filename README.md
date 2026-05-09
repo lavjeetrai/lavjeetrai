@@ -59,15 +59,7 @@ currently_learning: ["Agentic AI", "AI Studio"]
 hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Automation", "Social Interaction"]
 ````
 <br><br>
-<div align="center">
-  
-  
-</div>
 
-
-
-
-<br><br>
-  <br>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
 <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&customColorList=12&section=footer" />
