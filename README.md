@@ -4,33 +4,65 @@
 </td>
 <td width="80%" align="right" style="border: none;">
 <pre>
-██╗      █████╗ ██╗   ██╗██╗███████╗███████╗████████╗   ██╗  ██╗██╗   ██╗███╗   ███╗███████╗██████╗    ██████╗  █████╗ ██╗
-██║     ██╔══██╗██║   ██║██║██╔════╝██╔════╝╚══██╔══╝   ██║ ██╔╝██║   ██║████╗ ████║██╔════╝██╔══██╗   ██╔══██╗██╔══██╗██║
-██║     ███████║██║   ██║██║█████╗  █████╗     ██║      █████╔╝ ██║   ██║██╔████╔██║█████╗  ██████╔╝   ██████╔╝███████║██║
-██║     ██╔══██║╚██╗ ██╔╝██║██╔══╝  ██╔══╝     ██║      ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗   ██╔══██╗██╔══██║██║
-███████╗██║  ██║ ╚████╔╝ ██║███████╗███████╗   ██║      ██║  ██╗╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║   ██║  ██║██║  ██║██║
-╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚══════╝   ╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ 
+██╗      █████╗ ██╗   ██╗     ██╗███████╗███████╗████████╗   ██╗  ██╗██╗   ██╗███╗   ███╗ █████╗ ██████╗    ██████╗  █████╗ ██╗
+██║     ██╔══██╗██║   ██║     ██║██╔════╝██╔════╝╚══██╔══╝   ██║ ██╔╝██║   ██║████╗ ████║██╔══██╗██╔══██╗   ██╔══██╗██╔══██╗██║
+██║     ███████║██║   ██║     ██║█████╗  █████╗     ██║      █████╔╝ ██║   ██║██╔████╔██║███████║██████╔╝   ██████╔╝███████║██║
+██║     ██╔══██║╚██╗ ██╔╝██   ██║██╔══╝  ██╔══╝     ██║      ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══██║██╔══██╗   ██╔══██╗██╔══██║██║
+███████╗██║  ██║ ╚████╔╝ ╚█████╔╝███████╗███████╗   ██║      ██║  ██╗╚██████╔╝██║ ╚═╝ ██║██║  ██║██║  ██║   ██║  ██║██║  ██║██║
+╚══════╝╚═╝  ╚═╝  ╚═══╝   ╚════╝ ╚══════╝╚══════╝   ╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
 </pre>
 </td>
 </tr></table>
 
 
 ```yaml
- name: Lavjeet Kumar Rai
-country: Varanasi, India
-role: Full-Stack Developer & AI/ML Researcher
-education: ["B.Tech in Computer Science (AI & ML)"]
-affiliations: ["Singularity Student Research Lab"]
+# User Info:
+name: "Lavjeet Kumar Rai"
+country: "Varanasi, India"
+role: "Full-Stack Developer & AI/ML Researcher"
+
+education: 
+  - "B.Tech in Computer Science (AI & ML)"
+affiliations: 
+  - "Singularity Student Research Lab"
+
 key_projects_and_research:
-  - ["AI Smart Classroom Prototype", "LearnX", "Node.js, MongoDB", "2026"]
-  - ["Encrypted QR Code Web App", "SecureScan", "Max 200-word capacity", "2026"]
-  - ["Train Management System", "Data Structure Visualization", "C, WebAssembly", "2026"]
-  - ["Research Grant Recipient", "RVFL Optimization & Traffic Flow", "SRM University", "2026"]
-  - ["Quantum Backend Replica", "Fourier Logic", "Research", "2026"]
-fields_of_interests: ["Artificial Intelligence", "LLM Fine-Tuning (PEFT, LoRA)", "Blockchain", "Decentralized Identity", "Zero-Knowledge Proofs"]
-technical_background: ["MERN Stack", "Next.js", "Django", "Java", "Python", "C/C++", "JavaScript", "Data Structures & Algorithms"]
-currently_learning: ["Agentic AI", "AI Studio"]
-hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Automation", "Social Interaction"]
+  - project: "AI Smart Classroom Prototype"
+    alias: "LearnX"
+    stack: "Node.js, MongoDB"
+  - project: "Encrypted QR Code Web App"
+    alias: "SecureScan"
+  - project: "Train Management System"
+    category: "Data Structure Visualization"
+    stack: "C, WebAssembly"
+  - project: "Research Grant Recipient"
+    focus: "RVFL Optimization & Traffic Flow"
+    institution: "SRM University"
+    year: 2026
+
+fields_of_interests: 
+  - "Artificial Intelligence"
+  - "LLM Fine-Tuning (PEFT, LoRA)"
+  - "Blockchain"
+  - "Decentralized Identity"
+
+technical_background: 
+  - "MERN Stack"
+  - "Next.js"
+  - "Django"
+  - "Languages: Java, Python, C/C++, JavaScript"
+  - "Core: Data Structures & Algorithms"
+
+currently_learning: 
+  - "Agentic AI"
+  - "Fine Tuning"
+
+hobbies: 
+  - "Music"
+  - "Competitive Programming"
+  - "Nature Photography"
+  - "System Automation"
+  - "Social Interaction"
 ````
 <br><br>
 
