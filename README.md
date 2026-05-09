@@ -1,25 +1,5 @@
-<div align="center"><h1>Laziness is the key...</h1></div>
+<div align="left"><h1>Laziness is the key...</h1></div>
 
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/lavjeet-rai/">
-    <img src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" width="40px" alt="LinkedIn" />
-  </a>
-    
-  <a href="https://www.instagram.com/lavjeet.rai/">
-    <img src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" width="40px" alt="Instagram" />
-  </a>
-</div>
-  
-<br><br>
-
- <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=lavjeetrai&theme=onedark&column=-1" />
-</p>
-
-   <br><br>
-  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lavjeetrai&theme=github-dark-dimmed&custom_title=Lav's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<br><br>
 
 ```yaml
  name: Lavjeet Kumar Rai
@@ -40,6 +20,15 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
 ````
 <br><br>
 
+  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lavjeetrai&theme=github-dark-dimmed&custom_title=Lav's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+ <p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=lavjeetrai&theme=onedark&column=-1" />
+</p>
+
+   <br><br>
+
+
 <div>
   <h1>Let's play Pokemon together~</h1>
   <img src="https://toy.cloudreve.org/image" width="300"/> 
@@ -59,7 +48,17 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
   
   -----
 </div>
-<div align="centre"><img align="centre" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em></div>
+<div align="centre"><img align="centre" src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
+<div align="right">
+  <a href="https://www.linkedin.com/in/lavjeet-rai/">
+    <img src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" width="40px" alt="LinkedIn" />
+  </a>
+    
+  <a href="https://www.instagram.com/lavjeet.rai/">
+    <img src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" width="40px" alt="Instagram" />
+  </a>
+</div></div>
 
 
 <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&customColorList=12&section=footer" />
