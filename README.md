@@ -22,7 +22,7 @@ country: "Varanasi, India"
 role: "Full-Stack Developer & AI/ML Researcher"
 
 education: 
-  - "B.Tech in Computer Science (AI & ML)"
+  - "B.Tech in Computer Science (AI & ML) 1st Year Student"
 affiliations: 
   - "Singularity Student Research Lab"
 
