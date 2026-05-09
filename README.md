@@ -1,4 +1,20 @@
-<div align="left"><h1>Laziness is the key...</h1></div>
+<table width="100%" style="border: none; background-color: transparent;"><tr>
+<td width="20%" style="border: none;">
+<img src="https://github.com/raghavk16/raghavk16/blob/master/octo.gif?raw=true" alt="GitHub Logo" width="150" height="150" />
+</td>
+<td width="80%" align="right" style="border: none;">
+<pre>
+██╗      █████╗ ██╗   ██╗██╗███████╗███████╗████████╗   ██╗  ██╗██╗   ██╗███╗   ███╗███████╗██████╗    ██████╗  █████╗ ██╗
+██║     ██╔══██╗██║   ██║██║██╔════╝██╔════╝╚══██╔══╝   ██║ ██╔╝██║   ██║████╗ ████║██╔════╝██╔══██╗   ██╔══██╗██╔══██╗██║
+██║     ███████║██║   ██║██║█████╗  █████╗     ██║      █████╔╝ ██║   ██║██╔████╔██║█████╗  ██████╔╝   ██████╔╝███████║██║
+██║     ██╔══██║╚██╗ ██╔╝██║██╔══╝  ██╔══╝     ██║      ██╔═██╗ ██║   ██║██║╚██╔╝██║██╔══╝  ██╔══██╗   ██╔══██╗██╔══██║██║
+███████╗██║  ██║ ╚████╔╝ ██║███████╗███████╗   ██║      ██║  ██╗╚██████╔╝██║ ╚═╝ ██║███████╗██║  ██║   ██║  ██║██║  ██║██║
+╚══════╝╚═╝  ╚═╝  ╚═══╝  ╚═╝╚══════╝╚══════╝   ╚═╝      ╚═╝  ╚═╝ ╚═════╝ ╚═╝     ╚═╝╚══════╝╚═╝  ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝ 
+</pre>
+</td>
+</tr></table>
+
+<div bold align="left"><h1>Laziness is the key...</h1></div>
 
 
 ```yaml
@@ -58,6 +74,8 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
   <a href="https://www.instagram.com/lavjeet.rai/">
     <img src="https://user-images.githubusercontent.com/43545812/144035120-1ad5169b-91c7-4078-bef9-6a82c733f373.png" width="40px" alt="Instagram" />
   </a>
+
+
 </div></div>
 
 
