@@ -64,7 +64,7 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
 </div>
 
 <div align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbTc4dXZpcHRwa3E4ZTdtbmFlem9uNDQ1dDgyYWMxcmExdHR0ZXEwNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kMkVuVqHk2dB6/giphy.gif" 
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhhNmEyNjQ5YzE2MDI3MDlhMTVmOGE5OWRmODFiMmI5NmVjNWY3OCZjdD1n/a1mveu2AahlGfFOUCy/giphy.gif" 
        width="110" 
        height="110" 
        style="border-radius: 50%; object-fit: cover;" 
