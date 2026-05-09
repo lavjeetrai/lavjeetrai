@@ -1,8 +1,22 @@
+<div>
+  <h1>Let's play Pokemon together~</h1>
+  <img src="https://toy.cloudreve.org/image" width="300"/> 
+    <img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:400px; height:auto;"/>
+    <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yevyzmbnm2qogdrq3hqh3agrri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 
- <div align="center">
-  <img src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:400px; height:auto;"/>
+  <img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/> <a href="https://toy.cloudreve.org/control?button=2&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/up.png" width="30"/></a>
+  <br><a href="https://toy.cloudreve.org/control?button=1&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/left.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=0&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/right.png" width="30"/></a><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=5&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/B.png" width="30"/></a> <a href="https://toy.cloudreve.org/control?button=4&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/A.png" width="30"/></a>
+  <br><a href="https://toy.cloudreve.org/control?button=3&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/down.png" width="30"/></a>
+  <br><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/blank.png" width="30"/><a href="https://toy.cloudreve.org/control?button=6&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/select.png" width="74"/></a> <a href="https://toy.cloudreve.org/control?button=7&callback=https://github.com/HFO4"><img src="https://raw.githubusercontent.com/HFO4/HFO4/master/img/start.png" width="65" /></a>
+
+<p align="center">
+  <a href="https://open.spotify.com/user/31yevyzmbnm2qogdrq3hqh3agrri">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yevyzmbnm2qogdrq3hqh3agrri" alt="Spotify Recently Played" />
+  </a>
+</p>
+  
+  -----
 </div>
-
 
   <div align="center"><h1>Laziness is the key...</h1></div>
 
@@ -46,12 +60,8 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
 ````
 <br><br>
 <div align="center">
-  <p align="center">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yevyzmbnm2qogdrq3hqh3agrri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-</p>
-  <a href="https://open.spotify.com/user/31yevyzmbnm2qogdrq3hqh3agrri">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yevyzmbnm2qogdrq3hqh3agrri" alt="Spotify Recently Played" />
-  </a>
+  
+  
 </div>
 
 
