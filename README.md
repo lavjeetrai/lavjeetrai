@@ -49,14 +49,16 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
   
    <br>
 <div>
-  <img align="right" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:400px; height:auto;"/>
-  <img align="right" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yevyzmbnm2qogdrq3hqh3agrri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-
-<p align="center">
+  <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yevyzmbnm2qogdrq3hqh3agrri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
+<br>
+<p align="right">
   <a href="https://open.spotify.com/user/31yevyzmbnm2qogdrq3hqh3agrri">
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yevyzmbnm2qogdrq3hqh3agrri" alt="Spotify Recently Played" />
   </a>
 </p>
+
+  <img align="left" src="https://i.giphy.com/RThN0hOS2GO4M.gif" alt="Music GIF" style="width:250px; height:auto;"/>
+  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
   -----
 </div>
@@ -64,5 +66,6 @@ hobbies: ["Music", "Competitive Programming", "Nature Photography", "System Auto
 
 </div>
 
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 
 <img width="120%" src="https://capsule-render.vercel.app/api?type=waving&height=60&color=gradient&customColorList=12&section=footer" />
