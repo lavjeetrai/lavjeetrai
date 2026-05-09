@@ -21,41 +21,11 @@ name: "Lavjeet Kumar Rai"
 country: "Varanasi, India"
 role: "Full-Stack Developer & AI/ML Researcher"
 
-education: 
-  - "B.Tech in Computer Science (AI & ML) 1st Year Student"
-affiliations: 
-  - "Singularity Student Research Lab"
-
-key_projects_and_research:
-  - project: "AI Smart Classroom Prototype"
-    alias: "LearnX"
-    stack: "Node.js, MongoDB"
-  - project: "Encrypted QR Code Web App"
-    alias: "SecureScan"
-  - project: "Train Management System"
-    category: "Data Structure Visualization"
-    stack: "C, WebAssembly"
-  - project: "Research Grant Recipient"
-    focus: "RVFL Optimization & Traffic Flow"
-    institution: "SRM University"
-    year: 2026
-
 fields_of_interests: 
   - "Artificial Intelligence"
   - "LLM Fine-Tuning (PEFT, LoRA)"
   - "Blockchain"
   - "Decentralized Identity"
-
-technical_background: 
-  - "MERN Stack"
-  - "Next.js"
-  - "Django"
-  - "Languages: Java, Python, C/C++, JavaScript"
-  - "Core: Data Structures & Algorithms"
-
-currently_learning: 
-  - "Agentic AI"
-  - "Fine Tuning"
 
 hobbies: 
   - "Music"
@@ -96,7 +66,7 @@ hobbies:
 </div>
 
 <div align="left">
-  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjhhNmEyNjQ5YzE2MDI3MDlhMTVmOGE5OWRmODFiMmI5NmVjNWY3OCZjdD1n/a1mveu2AahlGfFOUCy/giphy.gif" 
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh6N2h2aGdmZGpqZjVlbW9yaHMxMDc1NmltcTlzengzOW9mNXprYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WfqF8FrtUjiPGERlJu/giphy.gif" 
        width="110" 
        height="110" 
        style="border-radius: 50%; object-fit: cover;" 
