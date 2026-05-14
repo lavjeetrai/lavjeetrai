@@ -34,6 +34,7 @@ hobbies:
   
   [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=lavjeetrai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=lavjeetrai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
   
+  
 
   [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lavjeetrai&theme=github-dark-dimmed&custom_title=Lav's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
