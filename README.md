@@ -18,14 +18,8 @@
 ```yaml
 # User Info:
 name: "Lavjeet Kumar Rai"
-country: "Varanasi, India"
-role: "Full-Stack Developer & AI/ML Researcher"
+country: "India"
 
-fields_of_interests: 
-  - "Artificial Intelligence"
-  - "LLM Fine-Tuning (PEFT, LoRA)"
-  - "Blockchain"
-  - "Decentralized Identity"
 
 hobbies: 
   - "Music"
