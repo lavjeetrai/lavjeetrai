@@ -29,21 +29,10 @@
     <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yevyzmbnm2qogdrq3hqh3agrri" alt="Spotify Recently Played" />
   </a>
 </p>
-
-  
-  <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
   -----
 </div>
 
-<div align="left">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGh6N2h2aGdmZGpqZjVlbW9yaHMxMDc1NmltcTlzengzOW9mNXprYiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WfqF8FrtUjiPGERlJu/giphy.gif" 
-       width="110" 
-       height="110" 
-       style="border-radius: 50%; object-fit: cover;" 
-       align="middle"> 
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <em><b>"Always happy to talk tech or collaborate. Say hi!"</b> :)</em>
 </div>
 
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
