@@ -17,25 +17,14 @@
 <br><br>
 
 [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=lavjeetrai&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=lavjeetrai&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="https://c.tenor.com/yJVGv732XIgAAAAC/marvel-daredevil.gif" width="300" height="200" />
+ <br>
   
-  [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=lavjeetrai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=lavjeetrai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-   <br>
-<div>
-  <img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yevyzmbnm2qogdrq3hqh3agrri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
-<br>
-<p align="right">
-  <a href="https://open.spotify.com/user/31yevyzmbnm2qogdrq3hqh3agrri">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31yevyzmbnm2qogdrq3hqh3agrri" alt="Spotify Recently Played" />
-  </a>
-</p>
-  
-  -----
+-----
 </div>
 
 </div>
 
-<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<img align="left" src="https://spotify-github-profile.kittinanx.com/api/view?uid=31yevyzmbnm2qogdrq3hqh3agrri&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false">
 
  <p align="center">
 
