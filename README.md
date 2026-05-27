@@ -14,31 +14,11 @@
 </td>
 </tr></table>
 
-
-```yaml
-# User Info:
-name: "Lavjeet Kumar Rai"
-country: "India"
-
-
-hobbies: 
-  - "Music"
-  - "Competitive Programming"
-  - "Nature Photography"
-  - "System Automation"
-  - "Social Interaction"
-````
 <br><br>
 
 [![Stats](https://github-readme-stats-fork-orpin.vercel.app/api?username=lavjeetrai&show_icons=true&theme=radical)](https://github-readme-stats.vercel.app/api?username=lavjeetrai&show_icons=true&theme=radical)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZXM4NDcxajdza2IwOW1vOTN6eTJsemV4OW1nYzF3dnBodXZycjVmdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0HDs67I79gfK91IKtO/giphy.gif" width="300">
   
   [![trophy](https://github-profile-trophy-fork-two.vercel.app/?username=lavjeetrai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)](https://github-profile-trophy.vercel.app/?username=lavjeetrai&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&no-bg=true)
-  
-  
-
-  [![activity graph](https://github-readme-activity-graph.vercel.app/graph?username=lavjeetrai&theme=github-dark-dimmed&custom_title=Lav's%20Activity%20Graph&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-
   
    <br>
 <div>
