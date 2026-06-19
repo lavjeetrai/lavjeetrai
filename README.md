@@ -1,3 +1,22 @@
+<table>
+  <tr>
+    <td align="center" width="120">
+      <a href="https://lkrorg.vercel.app">
+        <img src="YOUR_LOGO_URL" height="50" alt="LKR Org" />
+      </a>
+    </td>
+    <td align="left">
+      <h3>LKR Organization</h3>
+      <p>
+        Building open-source projects, contributing to the community,
+        and creating tools that help developers learn and grow.
+      </p>
+    </td>
+  </tr>
+</table>
+
+
+
 <div align="center">
 
 <table>
@@ -14,5 +33,6 @@
     </td>
   </tr>
 </table>
-
 </div>
+</div>
+<div align="center">
